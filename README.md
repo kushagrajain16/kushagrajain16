@@ -5,7 +5,7 @@ Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on Developer Portfolio 
 - 🌱 I’m currently learning Full Stack Web Development 
-- 📫 How to reach me: kjdev00016@outlook.com 
+- 📫 How to reach me: kjain00016@duck.com 
 - 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: My tongue can touch my nose.😋 
 
