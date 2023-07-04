@@ -18,6 +18,4 @@ Skills: JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kushagrajain16)  
 
-![Profile views](https://gpvc.arturio.dev/kushagrajain16)  
-
 ![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/kushagrajain16.png)
