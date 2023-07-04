@@ -20,4 +20,4 @@ Skills: JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/kushagrajain16)  
 
-![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/kushagrajain16.png)
+![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/kushagrajain16.pn)
