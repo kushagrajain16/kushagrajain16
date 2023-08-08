@@ -23,15 +23,19 @@ Connect with me:
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kushagrajain_16)
 
 🏆 **GitHub Trophies:**
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kushagrajain16)
 
 📊 **GitHub Stats:**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrajain16&show_icons=true)
 
 🔥 **GitHub Streak Stats:**
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kushagrajain16)
 
 🌟 **TryHackMe Rank:**
+
 ![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/kushagrajain16.png)
 
 Feel free to explore my repositories and projects. Connect with me on my social platforms – I'm always excited to engage with fellow developers and tech enthusiasts!
