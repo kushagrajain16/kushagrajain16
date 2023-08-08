@@ -38,8 +38,5 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kushagrajain16)
 
-🌟 **TryHackMe Rank:**
-
-![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/kushagrajain16.png)
 
 Feel free to explore my repositories and projects. Connect with me on my social platforms – I'm always excited to engage with fellow developers and tech enthusiasts!
