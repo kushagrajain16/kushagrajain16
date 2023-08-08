@@ -21,7 +21,6 @@ Connect with me:
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/KushagraJ16)
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kushagrajain_16/)
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kushagrajain_16)
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kushagrajain16.github.io)
 
 🏆 **GitHub Trophies:**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kushagrajain16)
