@@ -22,6 +22,8 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/KushagraJ16)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kushagrajain_16/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kushagrajain_16)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-663399?style=flat-square&logoColor=white&logo=vercel)](https://itskj.vercel.app)
+
 
 
 🏆 **GitHub Trophies:**
