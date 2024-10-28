@@ -5,7 +5,7 @@
 
 🛠️ **Skills:** C++ / JavaScript (JS) / HTML / CSS
 
-🔭 **Currently:** I'm working on building a program for DCT & LSB steganography to attach watermakrs to another media files.
+🔭 **Currently:** I'm working on building a program for DCT & LSB steganography to attach watermarks to another media files.
 
 🌱 **Learning:** I'm on a journey of continuous learning in the realm of Software Development.
 
